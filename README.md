@@ -1,7 +1,7 @@
 # Landing Page
 
 ## Links
-- [Try Landing Page here!](https://javicavi.github.io/odin-recipes/)
+- [Try it here here!](https://javicavi.github.io/odin-recipes/)
 
 - [Link to the Assignment](https://www.theodinproject.com/lessons/foundations-recipes)
 
